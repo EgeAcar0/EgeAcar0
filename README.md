@@ -36,8 +36,8 @@ Benim için kod sadece bir iş değil, aynı zamanda yaratıcılığımı ifade 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeAcar0&show_icons=true&theme=radical)  
 ![Streak](https://streak-stats.demolab.com/?user=EgeAcar0&theme=radical)  
 
-### 🔹 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/EgeAcar0?theme=dark&font=Gemunu%20Libre&ext=contest)  
+### 🔹 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/EgeAcar0?theme=dark&font=Alatsi)
 
 ---
 
