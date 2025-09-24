@@ -21,7 +21,7 @@ Benim için kod sadece bir iş değil, aynı zamanda yaratıcılığımı ifade 
 
 ## 🏆 Ödüller ve Projeler  
 - 📜 **Sertifika** → [Certifica](https://github.com/EgeAcar0/EgeAcar0/blob/master/assets/certificate.jpg)]  
-- 🚀 **Proje** → [Proje adını ve repo linkini ekle. Kısa açıklama: “X teknolojisi ile yaptığım Y uygulaması.”]  
+- 🚀 **Proje** → [[Emergent.sh yapay zekası ile yaptığım proje.”](https://github.com/EgeAcar0/jarvis_ai)]  
 
 > Eğer şimdilik sadece 1 sertifika + 1 proje varsa onları koy. Önemli olan boş bırakmamak, zamanla eklersin.  
 
