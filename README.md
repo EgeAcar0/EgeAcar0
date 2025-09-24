@@ -20,7 +20,7 @@ Benim için kod sadece bir iş değil, aynı zamanda yaratıcılığımı ifade 
 ---
 
 ## 🏆 Ödüller ve Projeler  
-- 📜 **Sertifika** → [Aldığın sertifikanın adı ve linki (varsa ekle)]  
+- 📜 **Sertifika** → [[Aldığın sertifikanın adı ve linki (varsa ekle)](https://github.com/EgeAcar0/EgeAcar0/blob/master/assets/certificate.jpg)]  
 - 🚀 **Proje** → [Proje adını ve repo linkini ekle. Kısa açıklama: “X teknolojisi ile yaptığım Y uygulaması.”]  
 
 > Eğer şimdilik sadece 1 sertifika + 1 proje varsa onları koy. Önemli olan boş bırakmamak, zamanla eklersin.  
