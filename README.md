@@ -67,7 +67,7 @@ Ollama + ESP8266 + Windows API arasında çalışan, ses ile komut alan yerel AI
 ## 📬 İletişim
 - 📧 **Mail:** egeacar@egoez.xyz  
 - 💼 **LinkedIn:** linkedin.com/in/ege-acar-891394279  
-- 🌐 **Website:** egoez.xyz  
+- 🌐 **Website:** egoez.me  
 
 ---
 
