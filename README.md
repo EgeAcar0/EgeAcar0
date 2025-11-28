@@ -20,7 +20,7 @@ Benim için kod sadece bir iş değil, aynı zamanda yaratıcılığımı ifade 
 
 ## 🏆 Ödüller ve Projeler  
 - 📜 **Sertifika** → [Certifica](https://github.com/EgeAcar0/EgeAcar0/blob/master/assets/certificate.jpg)]  
-- 🚀 **Proje** → [[Emergent.sh yapay zekası ile yaptığım proje.”](https://github.com/EgeAcar0/jarvis_ai)]  
+- 🚀 **Proje** → [[Otomatik discord ve dpi açan projem”](https://github.com/EgeAcar0/Auto-Discord-dpi)]  
 
 
 ---
